@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('7616846443:AAGTGHsvz9jqKlbrr78b-fan6DYLoTbXxGU')
+bot = telebot.TeleBot(TG_TOKEN)
 print('hey')
 
 #start command
